@@ -1,0 +1,19 @@
+body{
+    margin: 20px;
+}
+.blocks{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: rgb(100, 124, 62);
+    color: #fff;
+    margin: 20px 10px 0 0;
+    padding: 10px;
+    padding-left: 20px;
+
+}
+#block4{
+    background: burlywood;
+    
+    color: rebeccapurple;
+}
